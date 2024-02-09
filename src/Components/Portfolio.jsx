@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cleaners App made on React Native🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An app created to make dry cleaning services available at your door step.",
+    url: "https://github.com/MuhammadAman16/The-Cleaners-App",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Portfolio Website on React",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Minimal portfolio website made in React to showcase personal projects and skills.",
+    url: "https://github.com/MuhammadAman16/M.Aman-Portfolio-Website-React",
   },
   {
-    title: "My Resume Site",
+    title: "DSA codes in C++",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Fundamental codes related to Data structure and Algorithms in C++",
+    url: "https://github.com/MuhammadAman16/DSA",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Artifical Intelligence Python",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Implementation of Labs in accordance with the book Artificial Intelligence A Modern Approach by Stuart J Russel and Peter Norvig",
+    url: "https://github.com/MuhammadAman16/AI",
   },
 ];
 
